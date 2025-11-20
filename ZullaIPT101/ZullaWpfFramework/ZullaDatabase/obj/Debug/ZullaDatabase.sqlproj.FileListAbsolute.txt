@@ -1,0 +1,6 @@
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDatabase\bin\Debug\ZullaDatabase.dacpac
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDatabase\bin\Debug\ZullaDatabase.dll
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDatabase\bin\Debug\ZullaDatabase.pdb
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDatabase\obj\Debug\ZullaDatabase.sqlproj.AssemblyReference.cache
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDatabase\obj\Debug\ZullaDatabase.dll
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDatabase\obj\Debug\ZullaDatabase.pdb
