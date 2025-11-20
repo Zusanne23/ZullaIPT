@@ -1,0 +1,12 @@
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\bin\Debug\net6.0\ZullaDomain.deps.json
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\bin\Debug\net6.0\ZullaDomain.dll
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\bin\Debug\net6.0\ZullaDomain.pdb
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\obj\Debug\net6.0\ZullaDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\obj\Debug\net6.0\ZullaDomain.AssemblyInfoInputs.cache
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\obj\Debug\net6.0\ZullaDomain.AssemblyInfo.cs
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\obj\Debug\net6.0\ZullaDomain.csproj.CoreCompileInputs.cache
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\obj\Debug\net6.0\ZullaDomain.sourcelink.json
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\obj\Debug\net6.0\ZullaDomain.dll
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\obj\Debug\net6.0\refint\ZullaDomain.dll
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\obj\Debug\net6.0\ZullaDomain.pdb
+D:\3rdYear\palerIPT\ZullaIPTSolution\ZullaDomain\obj\Debug\net6.0\ref\ZullaDomain.dll
